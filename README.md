@@ -5,14 +5,6 @@ Official PyTorch implementation of the paper ICLF:A Text-Based Re-identification
 
 
 ## Usage
-### Requirements
-we use single RTX3090 24G GPU for training and evaluation. 
-```
-pytorch 1.9.0
-torchvision 0.10.0
-prettytable
-easydict
-```
 
 ### Prepare Datasets
 Download the CUHK-PEDES dataset from [here](https://github.com/ShuangLI59/Person-Search-with-Natural-Language-Description), ICFG-PEDES dataset from [here](https://github.com/zifyloo/SSAN) and RSTPReid dataset form [here](https://github.com/NjtechCVLab/RSTPReid-Dataset)
